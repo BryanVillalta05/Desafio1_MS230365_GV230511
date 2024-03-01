@@ -1,4 +1,0 @@
-Link github
-https://github.com/BryanVillalta05/guia2_DSS/tree/main
-Los archivos rar sirven pero debido a que trabaje los proyectos inicialmente en las computadoras 
-del laboratorio las tomo como si ya estaban en otro repositorio y no deja acceder
